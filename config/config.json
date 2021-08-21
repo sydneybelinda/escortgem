@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "escortgem",
+    "password": "escortgem",
+    "database": "escortgem",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "define": {
+      "timestamps": false
+  },
+  "logging": false
+  },
+  "test": {
+    "username": "escortgem",
+    "password": "escortgem",
+    "database": "escortgem",
+      "host": "127.0.0.1",
+  "dialect": "mysql",
+    "define": {
+      "timestamps": false
+  },
+  "logging": false
+  },
+  "production": {
+    "username": "escortgem",
+    "password": "escortgem",
+    "database": "escortgem",
+      "host": "127.0.0.1",
+    "dialect": "mysql",
+    "define": {
+      "timestamps": false
+  },
+  "logging": false
+}
+}

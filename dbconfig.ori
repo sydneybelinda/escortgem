@@ -1,0 +1,37 @@
+
+{
+    "development": {
+      "username": "xxxxxxxx",
+      "password": "xxxxxxxx",
+      "database": "lnb",
+      "host": "127.0.0.1",
+      "dialect": "mysql",
+      "define": {
+        "timestamps": false
+    },
+    "logging": false
+    },
+    "test": {
+        "username": "xxxxxxxx",
+        "password": "xxxxxxxx",
+        "database": "lnb",
+        "host": "127.0.0.1",
+    "dialect": "mysql",
+      "define": {
+        "timestamps": false
+    },
+    "logging": false
+    },
+    "production": {
+        "username": "xxxxxxxx",
+        "password": "xxxxxxxx",
+        "database": "lnb",
+        "host": "127.0.0.1",
+      "dialect": "mysql",
+      "define": {
+        "timestamps": false
+    },
+    "logging": false
+  }
+  }
+  
